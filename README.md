@@ -1,2 +1,2 @@
 # AttacksML
-Collection of Attacks revolving around ML algorithms
+Collection of attacks revolving around ML algorithms
